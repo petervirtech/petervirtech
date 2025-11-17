@@ -1,6 +1,36 @@
 # 💫 About Me:
 I'm currently learning Data & AI. Finding out the real value of ai supported coding<br>
+# 👋 Hi there, I'm PeterVirtech!
 
+## About Me:
+Project manager passionate about Data, AI, and smart technology. My strength is connecting technology and strategy to create meaningful impact. I lead innovative projects professionally and enjoy building home automation and smart solutions during my free time.
+
+## Expertise:
+
+- Project management & Agile/Scrum – Leading IT and data-driven initiatives with a focus on teamwork and results
+- Data & AI – Practical experience in data analytics, machine learning, and AI-powered solutions
+- Coding – Skilled in C# for enterprise applications and Python for data science and automation
+- Home Automation – Enthusiast in IoT, smart devices, and automating home and workflows
+
+## Technical Stack:
+- Languages: C#, Python, SQL, JavaScript
+- Languages: C#, Python, SQL, JavaScript
+- Frameworks/Tools: .NET, FastAPI, Docker, GitHub Actions
+- Cloud: Azure, Google Cloud
+- Home Automation: Node-RED, Home Assistant, MQTT
+
+## What I'm Working On
+- AI and data systems to optimize business processes
+- Automated data pipelines and analytics (Python & C#)
+- Home automation projects using Home Assistant and custom IoT devices
+
+## What You'll Find Here
+- Repositories for AI and data experiments
+- Code for home automation and IoT integrations
+- Examples of project documentation and architecture models (C4/ArchiMate)
+
+## Connect
+Feel free to reach out if you have questions or want to collaborate on projects in Data, AI, or home automation!  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterkraus) 
@@ -12,7 +42,6 @@ I'm currently learning Data & AI. Finding out the real value of ai supported cod
 ![](https://nirzak-streak-stats.vercel.app/?user=petervirtech&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=petervirtech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=petervirtech&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=petervirtech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
