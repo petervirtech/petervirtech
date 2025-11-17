@@ -44,9 +44,9 @@ Feel free to reach out if you have questions or want to collaborate on projects 
 
 ## Featured Projects
 
-- [Project 1](https://github.com/petervirtech/project1) - Brief description of project 1.
-- [Project 2](https://github.com/petervirtech/project2) - Brief description of project 2.
-- [Project 3](https://github.com/petervirtech/project3) - Brief description of project 3.
+- [zoervleisjtreffe.nl](https://github.com/petervirtech/zoervleisjtreffe) - A companion website for a local community event, a competition about making the best zoervleisj, a local dish with family recipe variations.
+- [Image Resizer](https://github.com/petervirtech/image-resizer) - A tool to optimize images for SSR websites by resizing and compressing images efficiently.
+- [Social Media Blogpost System](https://github.com/petervirtech/auto-blogger) - A system to help automate and schedule regular blog posts on social media platforms.
 
 ## 💻 Tech Stack
 
